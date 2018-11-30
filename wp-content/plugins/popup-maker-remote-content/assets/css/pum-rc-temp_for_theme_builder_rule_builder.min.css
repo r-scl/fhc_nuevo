@@ -1,0 +1,4 @@
+/*!******************************************************************************
+ * Copyright (c) 2018, WP Popup Maker
+ ******************************************************************************/
+.pum-loader.lines-1,.pum-loader.lines-1::after,.pum-loader.lines-1::before{background:#fff}@keyframes lines-1{0%,80%,to{box-shadow:0 0 #fff;height:4em}40%{box-shadow:0 -2em #fff;height:5em}}

@@ -1,0 +1,22 @@
+/*!******************************************************************************
+ * Copyright (c) 2018, WP Popup Maker
+ ******************************************************************************/
+
+.pum-rc-box {
+  position: relative;
+
+  .pum-remote-content-frame {
+    // Get rid of the weird space below iframes.
+    line-height: 0;
+
+    iframe {
+      width: 1px;
+      min-width: 100%;
+      border: 0;
+      transition: scroll .5s;
+    }
+  }
+
+}
+
+@import 'partials/loader';

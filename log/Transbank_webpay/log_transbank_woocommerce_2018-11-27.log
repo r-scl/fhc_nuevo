@@ -1,0 +1,4 @@
+[2018-11-27 19:41:30] [INFO ] [2112] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":807500,"commerceCode":"597032720226","buyOrder":2112}] [{"token":"e0f4f2156afc723bb96ebcff3071f9ea84b7c03e0029f3cdde8950e1fac30c5d","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}] 
+[2018-11-27 19:46:09] [INFO ] [2112] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":807500,"commerceCode":"597032720226","buyOrder":2112}] [{"token":"e501c3b2498d54e89b3e8d506ffae747aedf17c7fc2e9d6c41a923e405bb4968","url":"https:\/\/webpay3g.transbank.cl:443\/webpayserver\/initTransaction"}] 
+[2018-11-27 19:48:20] [INFO ] [] [acknowledgeTransaction] ["e501c3b2498d54e89b3e8d506ffae747aedf17c7fc2e9d6c41a923e405bb4968"] [true] 
+[2018-11-27 19:48:20] [INFO ] [2112] [getTransactionResult] ["e501c3b2498d54e89b3e8d506ffae747aedf17c7fc2e9d6c41a923e405bb4968"] [null] 

@@ -1,0 +1,18 @@
+2018-11-09T16:32:48+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/module/Portfolio.php:526
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1800): ET_Builder_Module_Portfolio->render(Array, '', 'et_pb_portfolio', '', '', '')
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_portfolio')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_blurb ti...')
+#4 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3728): do_shortcode('[et_pb_blurb ti...')
+#5 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/inc
+
+2018-11-09T16:32:48+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/module/Portfolio.php:526
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1800): ET_Builder_Module_Portfolio->render(Array, '', 'et_pb_portfolio', '', '', '')
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_portfolio')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_blurb ti...')
+#4 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3728): do_shortcode('[et_pb_blurb ti...')
+#5 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/Divi/inc
+

@@ -1,0 +1,200 @@
+[03-Oct-2018 18:02:32 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING) in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/functions.php on line 129
+[03-Oct-2018 18:02:38 UTC] PHP Parse error:  syntax error, unexpected '', '' (T_CONSTANT_ENCAPSED_STRING) in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/functions.php on line 129
+[11-Oct-2018 23:56:22 UTC] PHP Fatal error:  Cannot redeclare obituarios_post_type() (previously declared in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/functions.php:192) in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/functions.php on line 252
+[12-Oct-2018 04:36:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales-json.php on line 23
+[12-Oct-2018 13:11:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales.php on line 40
+[12-Oct-2018 13:12:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales.php on line 40
+[12-Oct-2018 13:12:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales.php on line 40
+[12-Oct-2018 13:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales.php on line 40
+[12-Oct-2018 13:15:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-sucursales.php on line 40
+[12-Oct-2018 13:30:24 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 13:36:51 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 13:39:06 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 14:20:57 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 14:21:21 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 14:33:58 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 15:05:21 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 15:17:02 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 15:19:02 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 15:32:58 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 17:03:51 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 17:03:51 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:18
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(18): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 18:34:11 UTC] PHP Fatal error:  Call to a member function AuthenticationUser() on null in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 18
+[12-Oct-2018 18:35:58 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 18:35:58 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 18:37:22 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 18:37:22 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 18:38:09 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 18:38:09 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 19:00:05 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 19:00:05 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 22:51:16 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 22:51:16 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 22:51:54 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[12-Oct-2018 22:51:54 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[13-Oct-2018 00:28:28 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[13-Oct-2018 00:28:28 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[13-Oct-2018 00:45:27 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[13-Oct-2018 00:45:27 UTC] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php:19
+Stack trace:
+#0 /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php(19): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/wordprie/public_html/fhc/wp-includes/template-loader.php(74): include('/home/wordprie/...')
+#2 /home/wordprie/public_html/fhc/wp-blog-header.php(19): require_once('/home/wordprie/...')
+#3 /home/wordprie/public_html/fhc/index.php(17): require('/home/wordprie/...')
+#4 {main}
+  thrown in /home/wordprie/public_html/fhc/wp-content/themes/divi-child/template-obituarios-ws.php on line 19
+[17-Oct-2018 17:42:03 UTC] PHP Warning:  file_get_contents(log.txt): failed to open stream: No such file or directory in /home/wordprie/public_html/fhc/wp-content/plugins/woocommerce-transbank/libwebpay/webpay-normal.php on line 236

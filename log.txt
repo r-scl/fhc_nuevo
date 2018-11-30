@@ -1,0 +1,68 @@
+stdClass Object
+(
+    [return] => stdClass Object
+        (
+            [accountingDate] => 1017
+            [buyOrder] => 1357
+            [cardDetail] => stdClass Object
+                (
+                    [cardNumber] => 1111
+                )
+
+            [detailOutput] => stdClass Object
+                (
+                    [sharesNumber] => 0
+                    [amount] => 1
+                    [commerceCode] => 597020000540
+                    [buyOrder] => 1357
+                    [authorizationCode] => 164862
+                    [paymentTypeCode] => VD
+                    [responseCode] => 0
+                )
+
+            [transactionDate] => 2018-10-17T14:40:07.453-03:00
+            [urlRedirection] => https://webpay3gint.transbank.cl/webpayserver/voucher.cgi
+            [VCI] => TSY
+        )
+
+)
+
+stdClass Object
+(
+    [return] => stdClass Object
+        (
+            [accountingDate] => 1017
+            [buyOrder] => 1358
+            [cardDetail] => stdClass Object
+                (
+                    [cardNumber] => 1111
+                )
+
+            [detailOutput] => stdClass Object
+                (
+                    [sharesNumber] => 0
+                    [amount] => 1
+                    [commerceCode] => 597020000540
+                    [buyOrder] => 1358
+                    [authorizationCode] => 862652
+                    [paymentTypeCode] => VD
+                    [responseCode] => 0
+                )
+
+            [transactionDate] => 2018-10-17T14:44:52.420-03:00
+            [urlRedirection] => https://webpay3gint.transbank.cl/webpayserver/voucher.cgi
+            [VCI] => TSY
+        )
+
+)
+
+getTransactionResult Object
+(
+    [tokenInput] => e9271ab655d1d379c7c190046dbc7370d3506d48404101b4e2af4f4dfd19a086
+)
+
+getTransactionResult Object
+(
+    [tokenInput] => ee70090842591e90b767eb13298e3e02f5bddf7b69f86e3bae9cd74e09c99199
+)
+

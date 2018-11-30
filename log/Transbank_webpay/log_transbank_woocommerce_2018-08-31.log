@@ -1,0 +1,3 @@
+[2018-08-31 16:59:34] [INFO ] [731] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":3288000,"commerceCode":"597020000540","buyOrder":731}] [{"token":"e45a85146cc4b9a4c88d7c1f4fec61e9697c229a13098a267ec34b11f206696b","url":"https:\/\/webpay3gint.transbank.cl\/filtroUnificado\/initTransaction"}] 
+[2018-08-31 17:00:11] [INFO ] [] [acknowledgeTransaction] ["e45a85146cc4b9a4c88d7c1f4fec61e9697c229a13098a267ec34b11f206696b"] [true] 
+[2018-08-31 17:00:11] [INFO ] [731] [getTransactionResult] ["e45a85146cc4b9a4c88d7c1f4fec61e9697c229a13098a267ec34b11f206696b"] [null] 

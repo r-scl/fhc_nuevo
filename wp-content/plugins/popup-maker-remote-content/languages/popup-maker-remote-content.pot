@@ -1,0 +1,185 @@
+# Copyright (C) 2018 popup-maker-remote-content
+# This file is distributed under the same license as the popup-maker-remote-content package.
+msgid ""
+msgstr ""
+"Project-Id-Version: popup-maker-remote-content\n"
+"Report-Msgid-Bugs-To: https://wppopupmaker.com/support\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Language-Team: WP Popup Maker <support@wppopupmaker.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/Admin/Settings.php:110
+msgid "Remote Content"
+msgstr ""
+
+#: classes/Ajax.php:25, classes/Ajax.php:59
+msgid "An error occurred or no data was returned by the server. Please try again."
+msgstr ""
+
+#: classes/Ajax.php:41
+msgid "No valid AJAX callback function was defined, or the function entered does not exist."
+msgstr ""
+
+#: classes/Ajax.php:50
+msgid "No content found for the clicked link."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:37
+msgid "Remote Content Area"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:44
+msgid "Inserts the dynamic content area for remote content."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:71
+msgid "Choose the method used to load dynamic content."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:72
+msgid "%sNote:%s Iframe is the only available method for external urls."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:76
+msgid "Load From URL"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:77
+msgid "IFrame"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:78
+msgid "Post Type Content (experimental)"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:79
+msgid "AJAX"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:85
+msgid "Content CSS Selector"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:86
+msgid "#main .content"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:87
+msgid "Enter a CSS selector to filter what content will be loaded from url."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:94
+msgid "Default IFrame URL"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:95
+msgid "Will be shown by default with normal triggers open this popup."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:102
+msgid "Post Type"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:104
+msgid "Which post type do you want data to come from?"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:112
+msgid "Function Name"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:113
+msgid "my_custom_function_name"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:114
+msgid "A PHP function that will be called to render results. Name only, no ()."
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:121
+msgid "Loading Icon Style"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:125
+msgid "Lines: Growing"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:126
+msgid "Dots: Growing"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:127
+msgid "Circles: Streaking"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:128
+msgid "Circles: Chasing Tail"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:129
+msgid "Circles: Dots Chasing"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:130
+msgid "Circles: Dots Fading"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:131
+msgid "Circles: Dots Streaking"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:132
+msgid "Circles: Racetrack"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:133
+msgid "Custom #1"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:134
+msgid "Custom #2"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:135
+msgid "Custom #3"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:140
+msgid "Minimum Height"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:283
+msgid "Dynamic/remote content area"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:294
+msgid "Content Template"
+msgstr ""
+
+#: classes/Shortcode/RemoteContent.php:295
+msgid "Include our template tags to render custom html content, or run your own shortcodes here."
+msgstr ""
+
+#: classes/Triggers.php:38
+msgid "Target Links of Post Type"
+msgstr ""
+
+#: classes/Triggers.php:42
+msgid "Used along with the Post Type method fore Remote Content Boxes"
+msgstr ""
+
+#: classes/Triggers.php:59
+msgid "Link: Internal URLs (same domain)"
+msgstr ""
+
+#: classes/Triggers.php:60
+msgid "Link: External URLs (different domain)"
+msgstr ""

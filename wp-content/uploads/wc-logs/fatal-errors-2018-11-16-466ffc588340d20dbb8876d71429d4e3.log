@@ -1,0 +1,20 @@
+2018-11-16T10:17:30+00:00 CRITICAL Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:189
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(189): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-16T10:28:02+00:00 CRITICAL Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://200.68.17.42:3362/BdCliente.asmx?wsdl' : failed to load external entity "http://200.68.17.42:3362/BdCliente.asmx?wsdl"
+ in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:189
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(189): SoapClient->SoapClient('http://200.68.1...', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+

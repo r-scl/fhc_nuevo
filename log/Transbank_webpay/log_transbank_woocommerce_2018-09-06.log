@@ -1,0 +1,5 @@
+[2018-09-06 16:12:01] [ERROR] [737] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":1,"commerceCode":"32720226","buyOrder":737}] [{"error":"Error conectando a Webpay","detail":"Zero length BigInteger"}] 
+[2018-09-06 16:17:08] [ERROR] [737] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":1,"commerceCode":"32720226","buyOrder":737}] [{"error":"Error conectando a Webpay","detail":"<!-- Commerce code (32720226) and commerce signature (597032720226) do not match(306) -->"}] 
+[2018-09-06 16:18:14] [INFO ] [737] [initTransaction] [{"sharesAmount":null,"sharesNumber":null,"amount":1,"commerceCode":"597032720226","buyOrder":737}] [{"token":"ea28174fe0494f55884c57f63f7269ff1bc936a88ccd59989e2a6517b93b2719","url":"https:\/\/webpay3g.transbank.cl:443\/filtroUnificado\/initTransaction"}] 
+[2018-09-06 16:19:23] [INFO ] [] [acknowledgeTransaction] ["ea28174fe0494f55884c57f63f7269ff1bc936a88ccd59989e2a6517b93b2719"] [true] 
+[2018-09-06 16:19:23] [INFO ] [737] [getTransactionResult] ["ea28174fe0494f55884c57f63f7269ff1bc936a88ccd59989e2a6517b93b2719"] [null] 

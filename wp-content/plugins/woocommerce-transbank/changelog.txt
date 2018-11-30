@@ -1,0 +1,25 @@
+# Changelog
+Todos los cambios son documentados en este archivo
+
+## [2.0.5] - 2018-08-24
+  ### Modificado
+  - Se modifica código de comercio y certificados.
+
+## [2.0.4] - 2018-05-28
+  ### Modificado
+  - Se modifica certificado de servidor para ambiente de integracion.
+
+## [2.0.3] - 2018-05-18
+  ### Modificado
+  - Se corrige SOAP para registrar versiones
+
+## [2.0.2] - 2018-04-12
+  ### Modificado
+  - Se modifica certificado de servidor para ambiente de integracion.
+
+## [2.0.1] - 2018-03-14
+  ### Agregado
+  - Se agrega archivo "changelog" para mantener orden de cambios realizados plugin
+
+  ### Modificado
+  - Se modifica validacion para  transacciones internacionale

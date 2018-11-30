@@ -1,0 +1,103 @@
+.sgpm_lcs_wrap {
+  display: inline-block;
+  direction: ltr;
+  height: 28px;
+    vertical-align: middle;
+}
+.sgpm_lcs_wrap input {
+  display: none;
+}
+
+.sgpm_lcs_switch {
+  display: inline-block;
+  position: relative;
+  width: 73px;
+  height: 28px;
+  border-radius: 30px !important;
+  background: #ddd;
+  overflow: hidden;
+  cursor: pointer;
+
+  /*-webkit-transition: all .2s ease-in-out !important;
+  -ms-transition:   all .2s ease-in-out !important;
+  transition:     all .2s ease-in-out !important;*/
+}
+.sgpm_lcs_cursor {
+  display: inline-block;
+  position: absolute;
+  top: 3px;
+  width: 22px;
+  height: 22px;
+  border-radius: 100% !important;
+  background: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 3px 4px 0 rgba(0, 0, 0, 0.1);
+  z-index: 10;
+
+  /*-webkit-transition: all .2s linear !important;
+  -ms-transition:   all .2s linear !important;
+  transition:     all .2s linear !important;*/
+}
+.sgpm_lcs_label {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  color: #fff;
+  font-weight: bold;
+  position: absolute;
+  width: 33px;
+  top: 5px;
+  overflow: hidden;
+  text-align: center;
+  opacity: 0;
+
+  /*-webkit-transition: all .2s ease-in-out .1s !important;
+  -ms-transition:   all .2s ease-in-out .1s !important;
+  transition:     all .2s ease-in-out .1s !important;*/
+}
+.sgpm_lcs_label.sgpm_lcs_label_on {
+  left: -70px;
+  z-index: 6;
+}
+.sgpm_lcs_label.sgpm_lcs_label_off {
+  right: -70px;
+  z-index: 5;
+}
+
+
+/* on */
+.sgpm_lcs_switch.sgpm_lcs_on {
+  background: #75b936;
+    box-shadow: 0 0 2px #579022 inset;
+}
+.sgpm_lcs_switch.sgpm_lcs_on .sgpm_lcs_cursor {
+  left: 48px;
+}
+.sgpm_lcs_switch.sgpm_lcs_on .sgpm_lcs_label_on {
+  left: 10px;
+  opacity: 1;
+}
+
+
+/* off */
+.sgpm_lcs_switch.sgpm_lcs_off {
+  background: #e43a45;
+  box-shadow: 0px 0px 2px #a4a4a4 inset;
+}
+.sgpm_lcs_switch.sgpm_lcs_off .sgpm_lcs_cursor {
+  left: 3px;
+}
+.sgpm_lcs_switch.sgpm_lcs_off .sgpm_lcs_label_off {
+  right: 10px;
+  opacity: 1;
+}
+
+
+/* disabled */
+.sgpm_lcs_switch.sgpm_lcs_disabled {
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  cursor: default;
+}
+
+

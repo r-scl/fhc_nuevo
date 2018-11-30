@@ -1,0 +1,752 @@
+2018-11-17T21:14:12+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-12537: Sesión de Red: fin del archivo ---> ORA-12537: Sesión de Red: fin del archivo in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:14:14+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:14:37+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:15:21+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:15:30+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:22:08+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:22:34+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:38:09+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:39:15+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:39:57+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:50:10+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:54:33+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T21:59:27+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:03:51+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:04:08+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:07:12+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:10:20+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:11:06+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:11:35+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:11:52+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:12:01+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:12:20+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:13:01+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:18:46+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:27:38+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:36:44+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T22:37:58+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:06:23+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:08:03+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:19:00+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:22:12+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:22:29+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:22:47+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:23:06+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:23:24+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:23:42+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:37:07+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:43:05+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:43:12+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:43:14+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:43:17+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:43:19+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:49:20+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-17T23:54:34+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:11:00+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:11:51+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:11:55+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:13:52+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:16:36+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:16:39+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:19:18+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:20:47+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:20:53+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:22:31+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:22:51+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:26:55+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:39:14+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:39:34+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:39:54+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:40:09+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:40:16+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:43:45+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:43:57+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:43:58+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:44:40+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:44:59+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:45:16+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:45:33+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:45:47+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:45:51+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:46:10+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:48:57+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T00:50:35+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:01:46+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:02:49+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:12:32+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:25:47+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> Timeout de solicitud de conexión in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:32:47+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-12541: TNS: no hay ningún listener ---> ORA-12541: TNS: no hay ningún listener ---> No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 132.130.150.3:1521 in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:35:21+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-12541: TNS: no hay ningún listener ---> ORA-12541: TNS: no hay ningún listener ---> No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 132.130.150.3:1521 in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:36:37+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:38:07+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
+2018-11-18T01:38:41+00:00 CRITICAL Uncaught SoapFault exception: [soap:Server] El servidor no puede procesar la solicitud. ---> ORA-01034: ORACLE not available
+ORA-27101: shared memory realm does not exist
+Linux-x86_64 Error: 2: No such file or directory in /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php:202
+Stack trace:
+#0 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-content/themes/divi-child/template-obituarios.php(202): SoapClient->__call('Obituario', Array)
+#1 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-includes/template-loader.php(74): include('/home/fhc/web/f...')
+#2 /home/fhc/web/funerariahogardecristo.cl/public_html/wp-blog-header.php(19): require_once('/home/fhc/web/f...')
+#3 /home/fhc/web/funerariahogardecristo.cl/public_html/index.php(17): require('/home/fhc/web/f...')
+#4 {main}
+  thrown
+
